@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 29 16:44:19 BRT 2023","Wed Mar 29 16:44:19 BRT 2023","338","tarefas","cadastro","","","","Campo Obrigatório",""
+"passed","Wed Mar 29 16:44:08 BRT 2023","Wed Mar 29 16:44:10 BRT 2023","1668","","home","","","","weapp deve estar online",""
+"passed","Wed Mar 29 16:44:18 BRT 2023","Wed Mar 29 16:44:19 BRT 2023","841","tarefas","cadastro","","","","não deve permitir tarefa duplicada",""
+"passed","Wed Mar 29 16:44:16 BRT 2023","Wed Mar 29 16:44:18 BRT 2023","1582","tarefas","cadastro","","","","deve cadastrar uma nova tarefa",""
+"passed","Wed Mar 29 16:44:20 BRT 2023","Wed Mar 29 16:44:20 BRT 2023","493","tarefas","exclusão","","","","deve remover uma tarefa",""
+"passed","Wed Mar 29 16:44:19 BRT 2023","Wed Mar 29 16:44:20 BRT 2023","463","tarefas","atualização","","","","deve concluir uma tarefa",""
